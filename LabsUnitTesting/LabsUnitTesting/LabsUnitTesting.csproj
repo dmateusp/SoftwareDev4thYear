@@ -57,6 +57,9 @@
     <Compile Include="UnitTest2.cs" />
     <Compile Include="UnitTest3.cs" />
     <Compile Include="UnitTest4.cs" />
+    <Compile Include="UnitTest5.cs" />
+    <Compile Include="UnitTest6.cs" />
+    <Compile Include="UnitTest7.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\..\Labs\Lab1\Lab1.csproj">
@@ -74,6 +77,18 @@
     <ProjectReference Include="..\..\Labs\Lab4\Lab4.csproj">
       <Project>{7c1af407-79c9-43a4-9694-3cdb1fef755c}</Project>
       <Name>Lab4</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Labs\Lab5\Lab5.csproj">
+      <Project>{2351a3e6-67a9-4cd8-be4d-d6a31285f90e}</Project>
+      <Name>Lab5</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Labs\Lab6\Lab6.csproj">
+      <Project>{e75e1abc-16af-4633-b6de-5fd7991786ef}</Project>
+      <Name>Lab6</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\Labs\Lab7\Lab7.csproj">
+      <Project>{6d6fb33d-6d25-4f3a-a7d2-fb2d1f7913e4}</Project>
+      <Name>Lab7</Name>
     </ProjectReference>
   </ItemGroup>
   <Choose>
