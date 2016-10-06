@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Lab3
 {
-    public class Class1
+    interface IHasVolume
     {
+        double volume();
     }
 }
